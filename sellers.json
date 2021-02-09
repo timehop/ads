@@ -1,0 +1,365 @@
+{
+  "contact_email": "advertising@timehop.com",
+  "contact_address": "401 Broadway, Suite 1100, New York, NY, 10013",
+  "version": "1.0",
+  "sellers": [
+    {
+      "sellers_id": "4072b34e-063f-45aa-9545-a5dc772b2f6a",
+      "name": "Timehop",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Timehop to transact"
+    },
+    {
+      "sellers_id": "c51c2d70-02a2-47e6-86db-ba2c97f2fbac",
+      "name": "Imgur",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Imgur to transact"
+    },
+    {
+      "sellers_id": "8eea9630-8d2c-4f6f-b04b-b7dfbe94c35a",
+      "name": "Wattpad",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Wattpad to transact"
+    },
+    {
+      "sellers_id": "8146d6ad-e260-4921-aa26-8e04bdc15222",
+      "name": "MixerBox",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with MixerBox to transact"
+    },
+    {
+      "sellers_id": "aa9c167c-ee32-4995-b8a6-c91f8f64426b",
+      "name": "Lucktastic",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Lucktastic to transact"
+    },
+    {
+      "sellers_id": "39f6d11a-ca03-491c-815e-80d7a9f84909",
+      "name": "FortuneBox",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with FortuneBox to transact"
+    },
+    {
+      "sellers_id": "b846e2c7-7c9b-4d51-b2f0-b5697fb85e81",
+      "name": "MixerBox JP",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with MixerBox JP to transact"
+    },
+    {
+      "sellers_id": "989dac26-1ebb-44c8-a603-82023547c7a6",
+      "name": "MixerBox TW",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with MixerBox TW to transact"
+    },
+    {
+      "sellers_id": "efde61b0-36fd-48d4-ac3e-c86397df88c4",
+      "name": "FortuneBox JP",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with FortuneBox JP to transact"
+    },
+    {
+      "sellers_id": "a7c47989-f98c-4e1a-aa06-bf352fb6b583",
+      "name": "FortuneBox TW",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with FortuneBox TW to transact"
+    },
+    {
+      "sellers_id": "f835fb7c-59a9-4e3d-9d59-8d0a81f01ed7",
+      "name": "Mixerbox Lite",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with MixerBox Lite to transact"
+    },
+    {
+      "sellers_id": "d284a9fe-1591-4f8d-bd19-adc273597cdb",
+      "name": "Kidoodle",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Kidoodle to transact"
+    },
+    {
+      "sellers_id": "03ab9daf-87c9-4464-9c4f-18dca5cafee5",
+      "name": "MocoSpace",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with MocoSpace to transact"
+    },
+    {
+      "sellers_id": "6af4d101-6fc3-4fa9-9815-499e257628dc",
+      "name": "DropList",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with DropList to transact"
+    },
+    {
+      "sellers_id": "7dc613c3-2622-4c1c-9dae-b81519e58831c",
+      "name": "Online Plus",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Online Plus to transact"
+    },
+    {
+      "sellers_id": "a5354d5b-2d14-472e-ab48-4714f790f0f2",
+      "name": "Qlixar",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Qlixar to transact"
+    },
+     {
+      "sellers_id": "6b760cb5-c87b-42dd-891b-db2c14f94ced",
+      "name": "PCH Slots",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with PCH Slots to transact"
+    },
+    {
+      "sellers_id": "b3edc391-9757-43ca-bf09-42aacb6d190f",
+      "name": "Growlr",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with the MeetMe to transact"
+    },
+    {
+      "sellers_id": "55ba41dc-a297-4596-af6c-0a4cd939f1fc",
+      "name": "WeatherBug",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with the WeatherBug to transact"
+    },
+    {
+      "sellers_id": "ee799181-be8a-4e75-a5a8-ab9c07bc2234",
+      "name": "LiveMixTapes",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with the LiveMixTapes to transact"
+    },
+    {
+      "sellers_id": "754380c3-75bc-4c64-bc44-7be63a8b9191",
+      "name": "VladTV",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with the VladTV to transact"
+    },
+    {
+      "sellers_id": "510cae52-7364-4d09-bb3a-41902fe4ad5b",
+      "name": "The Times of India",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with the The Times of India to transact"
+    },
+    {
+      "sellers_id": "be490ac2-ed73-43c8-a25e-219e634685a2",
+      "name": "Solitaire",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with the Solitaire to transact"
+    },
+    {
+      "sellers_id": "9ac03423-e563-4ef5-ba34-e5451fe44459",
+      "name": "MixerBox - QuizJP",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with the MixerBox - QuizJP to transact"
+    },
+    {
+      "sellers_id": "77956748-4167-490d-b00b-ee81f6fe88a9",
+      "name": "MixerBox - QuizUS",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with the MixerBox - QuizJP to transact"
+    },
+    {
+      "sellers_id": "1c94c719-6672-48f6-b754-173f020c8251",
+      "name": "MixerBox - BaseballJP",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with the MixerBox - QuizJP to transact"
+    },
+    {
+      "sellers_id": "f4cd85bc-f931-437f-9b02-05fa11979e29",
+      "name": "MixerBox - BaseballUS",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with the MixerBox - QuizJP to transact"
+    },
+    {
+      "sellers_id": "135dea05-cf29-4c3c-ba2f-873b95bf64ad",
+      "name": "Instant News",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Instant News to transact"
+    },
+    {
+      "sellers_id": "09338fa8-4cd7-49c8-b89f-83b57a9654a1",
+      "name": "Dolphin",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Dolphin to transact"
+    },
+    {
+      "sellers_id": "fa2ce704-9c30-4e24-accc-da9c7cdb85d6",
+      "name": "MyDaily",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with MyDaily to transact"
+    },
+    {
+      "sellers_id": "29094a61-81ed-4874-b280-a023eb06396c",
+      "name": "Everyday",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Everyday to transact"
+    },
+    {
+      "sellers_id": "3f061bbb-bf4b-42b0-a1a3-fac14d3c4909",
+      "name": "First News",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with First News to transact"
+    },
+    {
+      "sellers_id": "6de13ac5-6c09-469b-b01e-a04b5598ace6",
+      "name": "The Feed",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with The Feed to transact"
+    },
+    {
+      "sellers_id": "770e4b8d-56e3-404a-8f93-faf5d138b6d4",
+      "name": "Crocodile",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Crocodile to transact"
+    },
+    {
+      "sellers_id": "03fa1b93-ff7f-477c-93c3-95b076576a79",
+      "name": "ShopSavvy",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with ShopSavvy to transact"
+    },
+    {
+      "sellers_id": "d05e0795-1ece-4c9f-bf67-5063fafcfacf",
+      "name": "Year of Code - Steps",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Year of Code - Steps to transact"
+    },
+    {
+      "sellers_id": "4a452e45-0186-4fac-8bd1-14a6b9d39df1",
+      "name": "PalTalk",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with PalTalk to transact"
+    },
+    {
+      "sellers_id": "9dee1fac-c528-499f-9b63-b1b8646e98c1",
+      "name": "ShopKick",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with ShopKick to transact"
+    },
+    {
+      "sellers_id": "6bf4192c-2bde-448a-949f-b20e55f7bd6b",
+      "name": "Impala",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Impala to transact"
+    },
+    {
+      "sellers_id": "db9cb0ab-2a25-49c0-9551-e37d95f41a6a",
+      "name": "Swift News",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Swift News to transact"
+    },
+    {
+      "sellers_id": "27ecc18d-25be-4cb2-bdd2-038ffeef7826",
+      "name": "MyFitnessPal",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with MyFitnessPal to transact"
+    },
+    {
+      "sellers_id": "0d5cc9a6-f5f5-4fa9-8714-ad222db9d86c",
+      "name": "Swift Headlines",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Swift Headlines to transact"
+    },
+    {
+      "sellers_id": "5a8af878-06bf-4a70-9fc7-48b416cb2f48",
+      "name": "The Economic Times",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with The Economic Times to transact"
+    },
+    {
+      "sellers_id": "ae49abd1-f43e-4646-90c3-91de79f29c14",
+      "name": "Hindi News",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Hindi News to transact"
+    },
+    {
+      "sellers_id": "6b9b5d13-77b7-4a64-ba0e-275d8fbe682a",
+      "name": "Timer+",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Timer+ to transact"
+    },
+    {
+      "sellers_id": "877e206c-6091-4aaf-9813-d6ae7f27b30d",
+      "name": "Food Delivery Tycoon",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Food Delivery Tycoon to transact"
+    },
+    {
+      "sellers_id": "0088c5fb-8224-489c-a5a5-0eb94b19db60",
+      "name": "Encyclopedia Britannica",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Encyclopedia Britannica to transact"
+    },
+    {
+      "sellers_id": "01e2ac20-4364-4df2-88ca-37d6c05265f8",
+      "name": "MeetMe",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with MeetMe to transact"
+    },
+    {
+      "sellers_id": "92a9b8b8-f741-4f27-b80e-9193c778b268",
+      "name": "Flickr",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Flickr to transact"
+    },
+    {
+      "sellers_id": "425bdaf7-b1a7-43b0-a6e9-9fecc9dbe617",
+      "name": "SmartNews",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with SmartNews to transact"
+    },
+    {
+      "sellers_id": "46f893d4-36ba-4faa-bc2a-fa0e1e37d666",
+      "name": "PhotoCircle",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with PhotoCircle to transact"
+    }
+  ]
+}
+

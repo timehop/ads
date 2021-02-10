@@ -63,7 +63,7 @@ chocolateplatform.com,15014, DIRECT, 49a66ce31a704197 #banner
 loopme.com,11198, DIRECT, 6c8d5f95897a5a3b
 rubiconproject.com,20744, RESELLER, 0bfd66d529a55807
 pubmatic.com,158154, RESELLER, 5d62403b186f2ace
-improvedigital.com,1532, RESELLER,
+improvedigital.com,1532, RESELLER
 advertising.com,28695, DIRECT, e1a5b5b6e3255540
 mobilefuse.com, 2770, DIRECT, 71e88b065d69c021
 aps.amazon.com, e50e09a8-b1c9-4518-ac9c-1a4686ad2fb9, DIRECT

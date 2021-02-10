@@ -66,4 +66,3 @@ pubmatic.com,158154, RESELLER, 5d62403b186f2ace
 improvedigital.com,1532, RESELLER,
 advertising.com,28695, DIRECT, e1a5b5b6e3255540
 mobilefuse.com, 2770, DIRECT, 71e88b065d69c021
-aps.amazon.com, e50e09a8-b1c9-4518-ac9c-1a4686ad2fb9, DIRECT

@@ -39,13 +39,6 @@
       "comment": "Must establish account relationship with Lucktastic to transact"
     },
     {
-      "sellers_id": "39f6d11a-ca03-491c-815e-80d7a9f84909",
-      "name": "FortuneBox",
-      "seller_type": "PUBLISHER",
-      "is_passthrough": 1,
-      "comment": "Must establish account relationship with FortuneBox to transact"
-    },
-    {
       "sellers_id": "b846e2c7-7c9b-4d51-b2f0-b5697fb85e81",
       "name": "MixerBox JP",
       "seller_type": "PUBLISHER",
@@ -58,13 +51,6 @@
       "seller_type": "PUBLISHER",
       "is_passthrough": 1,
       "comment": "Must establish account relationship with MixerBox TW to transact"
-    },
-    {
-      "sellers_id": "efde61b0-36fd-48d4-ac3e-c86397df88c4",
-      "name": "FortuneBox JP",
-      "seller_type": "PUBLISHER",
-      "is_passthrough": 1,
-      "comment": "Must establish account relationship with FortuneBox JP to transact"
     },
     {
       "sellers_id": "a7c47989-f98c-4e1a-aa06-bf352fb6b583",

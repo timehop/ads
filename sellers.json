@@ -387,6 +387,13 @@
       "seller_type": "PUBLISHER",
       "is_passthrough": 1,
       "comment": "Must establish account relationship with Ultimate Classic Rock to transact"
+    },
+    {
+      "sellers_id": "b77f4d9d-ba9a-4a14-945c-04456ce355a2",
+      "name": "Wheel of Fortune",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Wheel of Fortune to transact"
     }
   ]
 }

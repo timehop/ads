@@ -380,6 +380,13 @@
       "seller_type": "PUBLISHER",
       "is_passthrough": 1,
       "comment": "Must establish account relationship with StockTwits to transact"
+    },
+    {
+      "sellers_id": "36656dc4-7637-4a80-85db-7f91f17633ba",
+      "name": "Ultimate Classic Rock",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Ultimate Classic Rock to transact"
     }
   ]
 }

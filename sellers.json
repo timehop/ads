@@ -345,7 +345,41 @@
       "seller_type": "PUBLISHER",
       "is_passthrough": 1,
       "comment": "Must establish account relationship with PhotoCircle to transact"
+    },
+    {
+      "sellers_id": "19418178-3b92-4c35-b483-2220816acec3",
+      "name": "Mexican Trains",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Mexican Trains to transact"
+    },
+    {
+      "sellers_id": "6d966409-d3a2-4c58-bfae-f8e6373e1c43",
+      "name": "SwingU",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with SwingU to transact"
+    },
+    {
+      "sellers_id": "52e7bfed-8d5d-4f68-bf46-df8a0f57c365",
+      "name": "Reuters",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Reuters to transact"
+    },
+    {
+      "sellers_id": "617050e5-d89f-4c2d-98be-56dc6ffab23f",
+      "name": "Barstool Sports",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Barstool Sports to transact"
+    },
+    {
+      "sellers_id": "6715f3af-ab80-4da1-b751-ad8a271229c3",
+      "name": "StockTwits",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with StockTwits to transact"
     }
   ]
 }
-

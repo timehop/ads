@@ -394,6 +394,13 @@
       "seller_type": "PUBLISHER",
       "is_passthrough": 1,
       "comment": "Must establish account relationship with Wheel of Fortune to transact"
+    },
+    {
+      "sellers_id": "0718aba4-406a-49b7-a60d-88bf6dd0c5c2",
+      "name": "Camfrog",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Camfrog to transact"
     }
   ]
 }

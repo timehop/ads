@@ -37,6 +37,7 @@ chartboost.com, 5c674ba3d3162d0afd9efe34, DIRECT
 indexexchange.com,185578, RESELLER, 50b1c356f2c5c8fc
 rubiconproject.com,16834, RESELLER, 0bfd66d529a55807
 mobilefuse.com,2770, DIRECT
+appnexus.com, 2764, RESELLER
 rubiconproject.com,19744, RESELLER, 0bfd66d529a55807
 beachfront.com,11271, DIRECT, e2541279e8e2ca4d
 contextweb.com,562138, DIRECT, 89ff185a4c4e857c

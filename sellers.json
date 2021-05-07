@@ -401,6 +401,13 @@
       "seller_type": "PUBLISHER",
       "is_passthrough": 1,
       "comment": "Must establish account relationship with Camfrog to transact"
+    },
+    {
+      "sellers_id": "abec6c50-49d0-4f06-bbeb-f7684988c1b8",
+      "name": "Camfrog",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Camfrog to transact"
     }
   ]
 }

@@ -67,3 +67,7 @@ pubmatic.com,158154, RESELLER, 5d62403b186f2ace
 improvedigital.com,1532, RESELLER
 advertising.com,28695, DIRECT, e1a5b5b6e3255540
 mobilefuse.com, 2770, DIRECT, 71e88b065d69c021
+smartadserver.com, 4037, DIRECT
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+xad.com, 958, RESELLER, 81cbf0a75a5e0e9a

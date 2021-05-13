@@ -408,6 +408,76 @@
       "seller_type": "PUBLISHER",
       "is_passthrough": 1,
       "comment": "Must establish account relationship with MyMixTapez to transact"
+    },
+    {
+      "sellers_id": "e619cd56-0bc2-4782-88f8-87be5e680511",
+      "name": "NJ 101.5",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with NJ 101.5 to transact"
+    },
+    {
+      "sellers_id": "360a2d9b-76a2-472a-9b5e-9f3fc0b2cc2b",
+      "name": "WGRD",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with WGRD to transact"
+    },
+    {
+      "sellers_id": "bc2a2575-194b-4c05-bade-5b081355d2e4",
+      "name": "NewsTalk",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with NewsTalk to transact"
+    },
+    {
+      "sellers_id": "4f388a11-c8c2-4274-91b7-dc92b3c1d731",
+      "name": "WBLM",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with WBLM to transact"
+    },
+    {
+      "sellers_id": "b1b4bc4e-6324-4b9a-af99-9a39d1e57e39",
+      "name": "WJON",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with WJON to transact"
+    },
+    {
+      "sellers_id": "a1afad60-52b5-45c7-ad58-36d137502618",
+      "name": "Tide",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Tide to transact"
+    },
+    {
+      "sellers_id": "7dc35213-bb54-4c02-ba74-d5d70eb2ad94",
+      "name": "KFR",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with KFR to transact"
+    },
+    {
+      "sellers_id": "99949c93-5ea9-4831-a2c7-86fb3f74ada7",
+      "name": "WBCK",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with WBCK to transact"
+    },
+    {
+      "sellers_id": "babeb5f6-d8b9-4645-bdc1-00e4c764ee6d",
+      "name": "Cat Country",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Cat Country to transact"
+    },
+    {
+      "sellers_id": "2152a0a7-6078-4773-849d-0f964106aba8",
+      "name": "Mix 95.7FM",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Mix 95.7FM to transact"
     }
   ]
 }

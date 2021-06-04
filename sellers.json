@@ -101,7 +101,7 @@
       "is_passthrough": 1,
       "comment": "Must establish account relationship with Qlixar to transact"
     },
-     {
+    {
       "sellers_id": "6b760cb5-c87b-42dd-891b-db2c14f94ced",
       "name": "PCH Slots",
       "seller_type": "PUBLISHER",
@@ -478,6 +478,20 @@
       "seller_type": "PUBLISHER",
       "is_passthrough": 1,
       "comment": "Must establish account relationship with Mix 95.7FM to transact"
+    },
+    {
+      "sellers_id": "33095c48-38cf-44a3-81f9-71a72e8ab472",
+      "name": "Loudwire",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Loudwire to transact"
+    },
+    {
+      "sellers_id": "fe55202e-0069-41c9-9d66-910204dd5bf4",
+      "name": "XXL Mag",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with XXL Mag to transact"
     }
   ]
 }

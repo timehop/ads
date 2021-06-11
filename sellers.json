@@ -492,6 +492,13 @@
       "seller_type": "PUBLISHER",
       "is_passthrough": 1,
       "comment": "Must establish account relationship with XXL Mag to transact"
+    },
+    {
+      "sellers_id": "3b4585a7-8a27-462a-80f5-d7be531b1c15",
+      "name": "Memedroid",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Memedroid to transact"
     }
   ]
 }

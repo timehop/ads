@@ -499,6 +499,13 @@
       "seller_type": "PUBLISHER",
       "is_passthrough": 1,
       "comment": "Must establish account relationship with Memedroid to transact"
+    },
+    {
+      "sellers_id": "8524cd41-00bc-49bc-9301-44846de35c1b",
+      "name": "ScoreStream",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with ScoreStream to transact"
     }
   ]
 }

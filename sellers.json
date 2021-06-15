@@ -506,6 +506,13 @@
       "seller_type": "PUBLISHER",
       "is_passthrough": 1,
       "comment": "Must establish account relationship with ScoreStream to transact"
+    },
+    {
+      "sellers_id": "19209ec3-566b-4ef0-89ea-15f042ff79d2",
+      "name": "Scrabble Go",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Scrabble Go to transact"
     }
   ]
 }

@@ -513,6 +513,13 @@
       "seller_type": "PUBLISHER",
       "is_passthrough": 1,
       "comment": "Must establish account relationship with Scrabble Go to transact"
+    },
+    {
+      "sellers_id": "f6dd866e-c9eb-49b4-aecb-3196809a0a3d",
+      "name": "Funny Weather",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Funny Weather to transact"
     }
   ]
 }

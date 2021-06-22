@@ -520,6 +520,13 @@
       "seller_type": "PUBLISHER",
       "is_passthrough": 1,
       "comment": "Must establish account relationship with Funny Weather to transact"
+    },
+    {
+      "sellers_id": "28d9ae99-6269-4bff-a852-3733a5523c91",
+      "name": "FreeUnblock VPN",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with FreeUnblock VPN to transact"
     }
   ]
 }

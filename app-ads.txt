@@ -10,6 +10,7 @@ somoaudience.com, 22e05f7ebe306de4264547efff1b40e8, RESELLER, afbbacfd95716fd4
 inmobi.com, 9da0c000310640d0903a855cf2fe20b6, DIRECT, 83e75a7ae333ca9d
 tremorhub.com, 9lmvl-6ojd3, RESELLER, 1a4e959a1b50034a
 aol.com,26807, DIRECT, e1a5b5b6e3255540
+yahoo.com, 26807, DIRECT
 triplelift.com,3410, DIRECT, 6c33edb13117fd86
 xad.com,767, RESELLER, 81cbf0a75a5e0e9a
 xad.com,1190, RESELLER, 81cbf0a75a5e0e9a

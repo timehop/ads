@@ -73,3 +73,6 @@ smartadserver.com, 4037, DIRECT
 rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
 appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
 xad.com, 958, RESELLER, 81cbf0a75a5e0e9a
+conversantmedia.com, 100268, DIRECT, 03113cd04947736d
+appnexus.com, 4052, RESELLER
+yahoo.com,  55771, RESELLER, e1a5b5b6e3255540

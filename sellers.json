@@ -527,6 +527,20 @@
       "seller_type": "PUBLISHER",
       "is_passthrough": 1,
       "comment": "Must establish account relationship with FreeUnblock VPN to transact"
+    },
+    {
+      "sellers_id": "5e8e935c-c97d-47f3-94d6-9c8273aff282",
+      "name": "HAR Texas",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with HAR Texas to transact"
+    },
+    {
+      "sellers_id": "59c98a9e-50a0-4511-acbe-4e61859c7040",
+      "name": "Bracelet Book",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Bracelet Book to transact"
     }
   ]
 }

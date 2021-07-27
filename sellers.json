@@ -541,6 +541,13 @@
       "seller_type": "PUBLISHER",
       "is_passthrough": 1,
       "comment": "Must establish account relationship with Bracelet Book to transact"
+    },
+    {
+      "sellers_id": "867c3a8b-6809-4f20-8ddf-d49240f55b4b",
+      "name": "AudioMack",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with AudioMack to transact"
     }
   ]
 }

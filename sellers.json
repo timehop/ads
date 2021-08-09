@@ -548,6 +548,13 @@
       "seller_type": "PUBLISHER",
       "is_passthrough": 1,
       "comment": "Must establish account relationship with AudioMack to transact"
+    },
+    {
+      "sellers_id": "d607c656-6c93-4189-a360-1ee72c874dd0",
+      "name": "VPN - Super Unlimited Proxy",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with VPN - Super Unlimited Proxy to transact"
     }
   ]
 }

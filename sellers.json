@@ -555,6 +555,20 @@
       "seller_type": "PUBLISHER",
       "is_passthrough": 1,
       "comment": "Must establish account relationship with VPN - Super Unlimited Proxy to transact"
+    },
+    {
+      "sellers_id": "6fec8193-efdf-4e8e-8fe1-0fa26b6c1257",
+      "name": "Wordfinder by WordTips",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Wordfinder by WordTips to transact"
+    },
+    {
+      "sellers_id": "89e344f2-08d0-43f1-b56d-5a1ec3626ef8",
+      "name": "WishOK",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with WishOK to transact"
     }
   ]
 }

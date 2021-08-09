@@ -568,7 +568,7 @@
       "name": "WishOK",
       "seller_type": "PUBLISHER",
       "is_passthrough": 1,
-      "comment": "Must establish account relationship with Wordfinder by WishOK to transact"
+      "comment": "Must establish account relationship with WishOK to transact"
     }
   ]
 }

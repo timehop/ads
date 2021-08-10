@@ -1,4 +1,6 @@
 aps.amazon.com, e50e09a8-b1c9-4518-ac9c-1a4686ad2fb9, DIRECT
+facebook.com, 255831948105921, DIRECT, c3e20eee3f780d68
+facebook.com, 255831948105921, RESELLER, c3e20eee3f780d68
 indexexchange.com,191119, DIRECT, 50b1c356f2c5c8fc
 spotxchange.com,274268, DIRECT, 7842df1d2fe2db34
 spotx.tv,274268, DIRECT, 7842df1d2fe2db34
@@ -18,6 +20,7 @@ mobfox.com,74005, DIRECT
 mobfox.com,80788, DIRECT
 rhythmone.com,1508410480,DIRECT,a670c89d4a324e47
 adview.com,96039365,DIRECT
+pubwheel.com, 96039365, DIRECT, 1b2cc038a11ea319
 sabio.us,100036, DIRECT, 96ed93aaa9795702
 lemmatechnologies.com,110, RESELLER
 rubiconproject.com,20208, RESELLER, 0bfd66d529a55807

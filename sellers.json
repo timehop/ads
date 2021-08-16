@@ -569,6 +569,27 @@
       "seller_type": "PUBLISHER",
       "is_passthrough": 1,
       "comment": "Must establish account relationship with WishOK to transact"
+    },
+    {
+      "sellers_id": "2845c94c-5331-4f6f-8a36-6fb6fff930d4",
+      "name": "Untappd",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Untappd to transact"
+    },
+    {
+      "sellers_id": "6cca1d2f-627c-42ef-b284-aa051788c11d",
+      "name": "PricePulse",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with PricePulse to transact"
+    },
+    {
+      "sellers_id": "b42e3799-d6c0-4aba-b508-1e1d37250b40",
+      "name": "Breaking News Brief",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Breaking News Brief to transact"
     }
   ]
 }

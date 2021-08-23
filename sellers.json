@@ -590,6 +590,20 @@
       "seller_type": "PUBLISHER",
       "is_passthrough": 1,
       "comment": "Must establish account relationship with Breaking News Brief to transact"
+    },
+    {
+      "sellers_id": "a78080eb-f822-4556-84a9-cfdbb6a54fa0",
+      "name": "Dice with Buddies",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Dice with Buddies to transact"
+    },
+    {
+      "sellers_id": "c179c312-2b39-4321-91c1-8c0aa5b3f93f",
+      "name": "Dice with Ellen",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Dice with Ellen to transact"
     }
   ]
 }

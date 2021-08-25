@@ -604,6 +604,20 @@
       "seller_type": "PUBLISHER",
       "is_passthrough": 1,
       "comment": "Must establish account relationship with Dice with Ellen to transact"
+    },
+    {
+      "sellers_id": "13d1b498-df81-4f03-acf9-0425f36f6b80",
+      "name": "BeautifulWeather",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with BeautifulWeather to transact"
+    },
+    {
+      "sellers_id": "0e850f8c-bc69-4549-8641-198be9626d6b",
+      "name": "Yahtzee with Buddies",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Yahtzee with Buddies to transact"
     }
   ]
 }

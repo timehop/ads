@@ -618,6 +618,13 @@
       "seller_type": "PUBLISHER",
       "is_passthrough": 1,
       "comment": "Must establish account relationship with Yahtzee with Buddies to transact"
+    },
+    {
+      "sellers_id": "5dcb9920-a131-41ef-a862-2cd0f4e8e784",
+      "name": "Sierra",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Sierra to transact"
     }
   ]
 }

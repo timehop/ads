@@ -625,6 +625,13 @@
       "seller_type": "PUBLISHER",
       "is_passthrough": 1,
       "comment": "Must establish account relationship with Sierra to transact"
+    },
+    {
+      "sellers_id": "4758c9cc-49ff-4abb-84bd-1ea0b64cb47f",
+      "name": "Astrology Daily",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Astrology Daily to transact"
     }
   ]
 }

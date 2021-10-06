@@ -632,6 +632,13 @@
       "seller_type": "PUBLISHER",
       "is_passthrough": 1,
       "comment": "Must establish account relationship with Astrology Daily to transact"
+    },
+    {
+      "sellers_id": "3e9a36b7-96f2-4a09-96a8-45b82451be41",
+      "name": "WPSD Radar",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with WPSD Radar to transact"
     }
   ]
 }

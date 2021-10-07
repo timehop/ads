@@ -639,6 +639,13 @@
       "seller_type": "PUBLISHER",
       "is_passthrough": 1,
       "comment": "Must establish account relationship with WPSD Radar to transact"
+    },
+    {
+      "sellers_id": "a2534874-652f-44bf-aa40-0b3b1aea191c",
+      "name": "Psiphon Pro",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Psiphon Pro to transact"
     }
   ]
 }

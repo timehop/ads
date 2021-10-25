@@ -646,6 +646,13 @@
       "seller_type": "PUBLISHER",
       "is_passthrough": 1,
       "comment": "Must establish account relationship with Psiphon Pro to transact"
+    },
+    {
+      "sellers_id": "a928e325-948c-4f39-a896-9b14e6e4cbd9",
+      "name": "Meetup",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Meetup to transact"
     }
   ]
 }

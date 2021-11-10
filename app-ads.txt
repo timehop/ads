@@ -83,3 +83,4 @@ conversantmedia.com, 100268, DIRECT, 03113cd04947736d
 appnexus.com, 4052, RESELLER
 yahoo.com,  55771, RESELLER, e1a5b5b6e3255540
 pangleglobal.com, 88610, DIRECT
+media.net, 8CUL2RT17, DIRECT

@@ -49,6 +49,10 @@ contextweb.com,562138, DIRECT, 89ff185a4c4e857c
 districtm.io,101587, DIRECT, 3fd707be9c4527c3
 sharethrough.com, caf7e432, DIRECT, d53b998a7bd4ecd2
 adcolony.com, add66f084807435c9b914b8959aeb811, DIRECT, 1ad675c9de6b5176
+tpmn.io, 391, RESELLER
+opera.com, pub4210423680640, RESELLER, 55a0c5fd61378de3
+e-planning.net, ec771b05828a67fa, RESELLER, c1ba615865ed87b2
+betweendigital.com, 43956, RESELLER
 admanmedia.com,70, DIRECT
 appnexus.com,8874, DIRECT, f5ab79cb980f11d1
 pubnative.net,1006893, DIRECT, d641df8625486a7b

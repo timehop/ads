@@ -653,6 +653,13 @@
       "seller_type": "PUBLISHER",
       "is_passthrough": 1,
       "comment": "Must establish account relationship with Meetup to transact"
+    },
+    {
+      "sellers_id": "c82a93d7-11bd-4d65-acff-ece1cb121885",
+      "name": "Tokybook",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Tokybook to transact"
     }
   ]
 }

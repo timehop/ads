@@ -660,6 +660,13 @@
       "seller_type": "PUBLISHER",
       "is_passthrough": 1,
       "comment": "Must establish account relationship with Tokybook to transact"
+    },
+    {
+      "sellers_id": "ef20b099-3cf3-4194-ae58-b9557f4530c8",
+      "name": "BisManOnline",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with BisManOnline to transact"
     }
   ]
 }

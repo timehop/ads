@@ -667,6 +667,83 @@
       "seller_type": "PUBLISHER",
       "is_passthrough": 1,
       "comment": "Must establish account relationship with BisManOnline to transact"
+    },
+    {
+      "sellers_id": "1eee3da4-a25a-4652-a928-190f329437ba",
+      "name": "Radio Texas Live",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Radio Texas Live to transact"
+    },
+    {
+      "sellers_id": "e0d42578-1b12-40d1-a101-ca5fd8e09444",
+      "name": "The Beet",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with The Beet to transact"
+    },
+    {
+      "sellers_id": "fcadb4ac-88ca-4d8e-81e5-15fe5a243c07",
+      "name": "KNUE 1015 East Texas Country Station",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with KNUE 1015 East Texas Country Station to transact"
+    },
+    {
+      "sellers_id": "4aba64c8-c946-42fa-aab2-a8d31bfc1ff4",
+      "name": "The Dawg 973",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with The Dawg 973 to transact"
+    },
+    {
+      "sellers_id": "b876f305-e400-46ff-9698-159f18caeac3",
+      "name": "97.3 KKRC",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with 97.3 KKRC to transact"
+    },
+    {
+      "sellers_id": "fadb31ee-9ee3-43c4-830f-ab7785a73985",
+      "name": "101.5 WPDH",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with 101.5 WPDH to transact"
+    },
+    {
+      "sellers_id": "4e00758a-c49e-48bb-b54f-d33afb990963",
+      "name": "K2",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with K2 to transact"
+    },
+    {
+      "sellers_id": "32127ca1-3693-4711-b3e6-09c0f1cc65a1",
+      "name": "Buffalos 937 WBLK -The Peoples Station",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Buffalos 937 WBLK -The Peoples Station to transact"
+    },
+    {
+      "sellers_id": "38a0b948-2de1-4c30-8ace-b7317a900a0a",
+      "name": "106.5 WYRK",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with 106.5 WYRK to transact"
+    },
+    {
+      "sellers_id": "9fdbb85c-b375-45f1-be37-a3ea9f2c2ef7",
+      "name": "KICKS 105",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with KICKS 105 to transact"
+    },
+    {
+      "sellers_id": "e592e63a-5228-423c-9a41-3efe15d65986",
+      "name": "KLAQ",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with KLAQ to transact"
     }
   ]
 }

@@ -744,6 +744,13 @@
       "seller_type": "PUBLISHER",
       "is_passthrough": 1,
       "comment": "Must establish account relationship with KLAQ to transact"
+    },
+    {
+      "sellers_id": "bc993956-e08b-4e01-9804-cf3ace009a56",
+      "name": "Tumblr",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with Tumblr to transact"
     }
   ]
 }

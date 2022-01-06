@@ -751,6 +751,20 @@
       "seller_type": "PUBLISHER",
       "is_passthrough": 1,
       "comment": "Must establish account relationship with Tumblr to transact"
+    },
+    {
+      "sellers_id": "53665104-6348-4eb8-a7cc-0ea98d83777f",
+      "name": "MyLaps",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with MyLaps to transact"
+    },
+    {
+      "sellers_id": "11ee35d0-3b96-44d8-aca7-217c6dc28b48",
+      "name": "1point3acres",
+      "seller_type": "PUBLISHER",
+      "is_passthrough": 1,
+      "comment": "Must establish account relationship with 1point3acres to transact"
     }
   ]
 }

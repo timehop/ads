@@ -88,4 +88,3 @@ appnexus.com, 4052, RESELLER
 yahoo.com,  55771, RESELLER, e1a5b5b6e3255540
 pangleglobal.com, 88610, DIRECT
 media.net, 8CUL2RT17, DIRECT
-adsbynimbus.com, 4072b34e-063f-45aa-9545-a5dc772b2f6a, DIRECT

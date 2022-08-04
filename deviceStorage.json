@@ -1,0 +1,11 @@
+{
+  "disclosures": [
+    {
+      "identifier": "Timehop, Inc.",
+      "type": "app",
+      "maxAgeSeconds": null,
+      "cookieRefresh": false,
+      "purposes": [670]
+    }
+  ]
+}

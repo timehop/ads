@@ -76,6 +76,10 @@ loopme.com,11198, DIRECT, 6c8d5f95897a5a3b
 rubiconproject.com,20744, RESELLER, 0bfd66d529a55807
 pubmatic.com,158154, RESELLER, 5d62403b186f2ace
 improvedigital.com,1532, RESELLER
+opera.com,pub7275292332480,RESELLER,55a0c5fd61378de3
+e-planning.net,9522026ef023606d,RESELLER,c1ba615865ed87b2
+gitberry.com, 42knb, RESELLER
+growintech.co, 101696 , RESELLER
 advertising.com,28695, DIRECT, e1a5b5b6e3255540
 mobilefuse.com, 2770, DIRECT, 71e88b065d69c021
 appnexus.com, 2764, RESELLER
@@ -88,5 +92,11 @@ appnexus.com, 4052, RESELLER
 yahoo.com,  55771, RESELLER, e1a5b5b6e3255540
 pangleglobal.com, 88610, DIRECT
 media.net, 8CUL2RT17, DIRECT
+Onetag- onetag.com, 5d49f482552c9b6, Reseller
 themediagrid.com,EDLJGI,DIRECT,35d5010d7789b49d
 axonix.com,59059,DIRECT
+supply.colossusssp.com, 474, DIRECT, 6c5b49d96ec1b458
+appnexus.com, 10490, RESELLER, f5ab79cb980f11d1
+yieldmo.com, 3078438591206989879, DIRECT, #ortb
+startapp.com, 169573708, DIRECT
+start.io, 169573708, DIRECT

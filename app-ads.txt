@@ -41,9 +41,6 @@ groundtruth.com,107, RESELLER, 81cbf0a75a5e0e9a
 chartboost.com, 5c674ba3d3162d0afd9efe34, DIRECT
 indexexchange.com,185578, RESELLER, 50b1c356f2c5c8fc
 rubiconproject.com,16834, RESELLER, 0bfd66d529a55807
-mobilefuse.com,2770, DIRECT
-appnexus.com, 2764, RESELLER
-rubiconproject.com,19744, RESELLER, 0bfd66d529a55807
 beachfront.com,11271, DIRECT, e2541279e8e2ca4d
 contextweb.com,562138, DIRECT, 89ff185a4c4e857c
 districtm.io,101587, DIRECT, 3fd707be9c4527c3
@@ -83,6 +80,7 @@ growintech.co, 101696 , RESELLER
 advertising.com,28695, DIRECT, e1a5b5b6e3255540
 mobilefuse.com, 2770, DIRECT, 71e88b065d69c021
 appnexus.com, 2764, RESELLER
+rubiconproject.com,19744, RESELLER, 0bfd66d529a55807
 smartadserver.com, 4037, DIRECT
 rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
 appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
@@ -108,3 +106,44 @@ rubiconproject.com, 17598, RESELLER, 0bfd66d529a55807
 yieldmo.com, 2240559316355155321, RESELLER
 sharethrough.com, xz7QjFBY, RESELLER, d53b998a7bd4ecd2
 google.com, pub-5014945421810826, DIRECT, f08c47fec0942fa0
+vungle.com, 5898dc668d35674f40000046, DIRECT, c107d686becd2d77
+adtonos.com,PUB3603521960,RESELLER
+adswizz.com,consumable,RESELLER
+tritondigital.com,106423,RESELLER,19b4454d0b87b58b
+targetspot.com,297,RESELLER,feb28ed826dcf532
+bigo.sg,143,RESELLER
+blueseasx.com,203592,RESELLER
+freewheel.tv,1157777,RESELLER
+adtiming.com,a-126,RESELLER,bf66753b8f380142
+freewheel.tv,1446674,RESELLER
+freewheel.tv,1157729,RESELLER
+admixer.co.kr,1094,RESELLER
+App-stock.com,343264,RESELLER
+webeyemob.com,70107,RESELLER
+videoheroes.tv,212459,RESELLER,064bc410192443d8
+se7en.es,212459,RESELLER,064bc410192443d8
+betweendigital.com,43092,RESELLER
+betweendigital.com,43843,RESELLER
+opera.com,pub4444433466368,RESELLER,55a0c5fd61378de3
+mintegral.com,10026,RESELLER
+gitberry.com,90scb,RESELLER
+bidence.com,d35302328a4b1f129d376f9c2932b0b7,RESELLER
+adelement.com,30208,RESELLER
+flat-ads.com,6,RESELLER
+flat-ads.com,72,RESELLER
+tpmn.io,532,RESELLER
+mintegral.com,10030,RESELLER
+e-planning.net,081dcb996d2ccc1e,RESELLER,c1ba615865ed87b2
+webeyemob.com,70101,RESELLER
+webeyemob.com,70090,RESELLER
+target.my.com,8676470,RESELLER
+ignitemediatech.com,pub_61112,RESELLER
+advlion.com,3117,RESELLER
+bigo.sg,122,RESELLER
+yandex.com,95746987,RESELLER
+admixer.co.kr,1610,RESELLER
+acexchange.co.kr,1416775282,RESELLER
+adiiix.com,par-AA7B236BA32DD484C838E249362437B8,RESELLER
+ucfunnel.com,par-AA7B236BA32DD484C838E249362437B8,RESELLER
+betweendigital.com,44917,RESELLER
+mman.kr,30769,RESELLER

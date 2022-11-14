@@ -7,7 +7,6 @@ spotx.tv,274268, DIRECT, 7842df1d2fe2db34
 tappx.com,30567, DIRECT, 9f375a07da0318ec
 tappx.com,29703, DIRECT, 9f375a07da0318ec
 rubiconproject.com,13856, RESELLER, 0bfd66d529a55807
-rubiconproject.com,16114, RESELLER, 0bfd66d529a55807
 somoaudience.com, 22e05f7ebe306de4264547efff1b40e8, RESELLER, afbbacfd95716fd4
 inmobi.com, 9da0c000310640d0903a855cf2fe20b6, DIRECT, 83e75a7ae333ca9d
 tremorhub.com, 9lmvl-6ojd3, RESELLER, 1a4e959a1b50034a
@@ -77,7 +76,7 @@ opera.com,pub7275292332480,RESELLER,55a0c5fd61378de3
 e-planning.net,9522026ef023606d,RESELLER,c1ba615865ed87b2
 gitberry.com, 42knb, RESELLER
 growintech.co, 101696 , RESELLER
-advertising.com,28695, DIRECT, e1a5b5b6e3255540
+advertising.com, 28695, DIRECT, e1a5b5b6e3255540
 mobilefuse.com, 2770, DIRECT, 71e88b065d69c021
 appnexus.com, 2764, RESELLER
 rubiconproject.com,19744, RESELLER, 0bfd66d529a55807
@@ -90,7 +89,6 @@ appnexus.com, 4052, RESELLER
 yahoo.com,  55771, RESELLER, e1a5b5b6e3255540
 pangleglobal.com, 88610, DIRECT
 media.net, 8CUL2RT17, DIRECT
-Onetag- onetag.com, 5d49f482552c9b6, Reseller
 themediagrid.com,EDLJGI,DIRECT,35d5010d7789b49d
 criteo.com, B-060766, DIRECT, 9fac4a4a87c2a44f
 axonix.com,59059,DIRECT
@@ -118,7 +116,7 @@ adtiming.com,a-126,RESELLER,bf66753b8f380142
 freewheel.tv,1446674,RESELLER
 freewheel.tv,1157729,RESELLER
 admixer.co.kr,1094,RESELLER
-App-stock.com,343264,RESELLER
+app-stock.com,343264,RESELLER
 webeyemob.com,70107,RESELLER
 videoheroes.tv,212459,RESELLER,064bc410192443d8
 se7en.es,212459,RESELLER,064bc410192443d8

@@ -107,3 +107,4 @@ appnexus.com, 8381, RESELLER
 rubiconproject.com, 17598, RESELLER, 0bfd66d529a55807
 yieldmo.com, 2240559316355155321, RESELLER
 sharethrough.com, xz7QjFBY, RESELLER, d53b998a7bd4ecd2
+google.com, pub-5014945421810826, DIRECT, f08c47fec0942fa0

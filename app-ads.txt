@@ -75,7 +75,7 @@ improvedigital.com,1532, RESELLER
 opera.com,pub7275292332480,RESELLER,55a0c5fd61378de3
 e-planning.net,9522026ef023606d,RESELLER,c1ba615865ed87b2
 gitberry.com, 42knb, RESELLER
-growintech.co, 101696 , RESELLER
+growintech.co, 101696, RESELLER
 advertising.com, 28695, DIRECT, e1a5b5b6e3255540
 mobilefuse.com, 2770, DIRECT, 71e88b065d69c021
 appnexus.com, 2764, RESELLER

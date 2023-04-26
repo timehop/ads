@@ -171,3 +171,4 @@ appnexus.com,1752, RESELLER, f5ab79cb980f11d1
 rubiconproject.com, 16928, RESELLER, 0bfd66d529a55807
 indexexchange.com, 183920, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 184270, RESELLER, 50b1c356f2c5c8fc
+onetag.com, 7e0ded1a5f166d2, DIRECT

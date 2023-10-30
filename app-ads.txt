@@ -202,3 +202,11 @@ appnexus.com, 14080, RESELLER, f5ab79cb980f11d1
 rubiconproject.com, 24752, RESELLER, 0bfd66d529a55807 
 video.unrulymedia.com, 3881266972, RESELLER
 smartadserver.com, 4343, RESELLER
+dauup.com, 35120, DIRECT
+peak226.com, 20120, DIRECT
+vidoomy.com, 2704434, RESELLER
+adform.com, 2742, RESELLER
+instreamatic.com, 78, RESELLER
+video.unrulymedia.com, 2979066401945419350, RESELLER
+adswizz.com, entravision, RESELLER
+rubiconproject.com, 20086, RESELLER

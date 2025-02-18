@@ -227,6 +227,7 @@ freewheel.tv,1601349,RESELLER
 freewheel.tv,1601388,RESELLER
 freewheel.tv,1601610,RESELLER
 fromthetop.io,65536,RESELLER
+fyber.com,232856,DIRECT
 gamaigroup.com,423058,RESELLER
 gitberry.com,345100012,RESELLER
 gitberry.com,375100011,RESELLER

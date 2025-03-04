@@ -36,6 +36,7 @@ admixer.co.kr,1610,RESELLER
 admixer.co.kr,1654,RESELLER
 admixer.net,26f19e7a-1b46-4e44-a635-e92c6a27b88b,RESELLER
 adsbynimbus.com,94b67e8d-295e-4d2d-b9f0-d114399ec76d,DIRECT,dd263a8a859bd0e0
+adswizz.com,561,RESELLER
 adswizz.com,consumable,RESELLER
 adswizz.com,entravision,RESELLER
 adtiming.com,a-126,RESELLER,bf66753b8f380142
@@ -151,6 +152,7 @@ cleanmedia.net,1677-963-20230814t213231670,DIRECT
 consumable.com,2001409,RESELLER,aefcd3d2f45b5070
 consumable.com,2001583,RESELLER,aefcd3d2f45b5070
 consumable.com,2001585,RESELLER,aefcd3d2f45b5070
+consumable.com,2001622,DIRECT,aefcd3d2f45b5070
 contextweb.com,558511,RESELLER,89ff185a4c4e857c
 contextweb.com,558622,RESELLER,89ff185a4c4e857c
 contextweb.com,560288,RESELLER,89ff185a4c4e857c
@@ -578,6 +580,7 @@ rhythmone.com,1508410480,DIRECT,a670c89d4a324e47
 rhythmone.com,5336134699710583737,RESELLER,a670c89d4a324e47
 risecodes.com,6548dccf58df6d00010625d2,RESELLER
 risecodes.com,662a26f1f3d42a00015ffbad,RESELLER
+risecodes.com,66387b961eb0af000195fb9f,RESELLER
 risecodes.com,66b9eb5035bff70001ca7bf8,RESELLER
 rubiconproject.com,11726,RESELLER,0bfd66d529a55807
 rubiconproject.com,12186,RESELLER,0bfd66d529a55807
@@ -793,6 +796,7 @@ themediagrid.com,r28i9j,RESELLER,35d5010d7789b49d
 themediagrid.com,rabcq1,RESELLER,35d5010d7789b49d
 themediagrid.com,swh94x,RESELLER,35d5010d7789b49d
 themediagrid.com,symtfd,RESELLER,35d5010d7789b49d
+thisisdax.com,5329,RESELLER
 thunder-monetize.com,2297825074,RESELLER
 thunder-monetize.com,4977054380,RESELLER
 thunder-monetize.com,9550919845,RESELLER
@@ -921,6 +925,7 @@ yieldmo.com,2240559316355155321,RESELLER
 yieldmo.com,2754490424016969782,RESELLER
 yieldmo.com,3078438591206989879,DIRECT
 yieldmo.com,3591550211052216798,RESELLER,6a92c77cfc3d2258
+yieldmo.com,3746143199094055132,RESELLER
 zetaglobal.com,815,RESELLER
 zetaglobal.net,757,RESELLER
 zetaglobal.net,815,RESELLER

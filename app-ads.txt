@@ -60,6 +60,7 @@ advlion.com,3144,RESELLER
 adx-dra.op.hicloud.com,pub_hw_1003,RESELLER
 adx-dre.op.hicloud.com,pub_hw_1003,RESELLER
 adx-drru.op.hicloud.com,pub_hw_1003,RESELLER
+adyoulike.com,76375ac0f5abb5a550c87326b9063b59,RESELLER,4ad745ead2958bf7
 adyoulike.com,78afbc34fac571736717317117dfa247,RESELLER,4ad745ead2958bf7
 adyoulike.com,994b7b4e03898048761c7110f11e56c2,RESELLER,4ad745ead2958bf7
 adyoulike.com,a2226c27fc2a6773f6a2b365e013513a,RESELLER,4ad745ead2958bf7
@@ -208,6 +209,7 @@ conversantmedia.com,100455,RESELLER,03113cd04947736d
 conversantmedia.com,100569,RESELLER,03113cd04947736d
 conversantmedia.com,100859,RESELLER,03113cd04947736d
 conversantmedia.com,100863,RESELLER,03113cd04947736d
+conversantmedia.com,100886,RESELLER,03113cd04947736d
 copper6.com,764118,RESELLER
 criteo.com,186227,RESELLER
 criteo.com,b-057601,RESELLER,9fac4a4a87c2a44f
@@ -410,6 +412,7 @@ mars.media,107876,RESELLER,8624339f102fb076
 mars.media,1084828,RESELLER,8624339f102fb076
 media.net,8cu12aq1y,RESELLER
 media.net,8cu43768m,RESELLER
+media.net,8cu76268d,RESELLER
 media.net,8cu7h33b7,RESELLER
 media.net,8cu9b72o6,RESELLER
 media.net,8cuau7hf1,RESELLER
@@ -845,6 +848,7 @@ thebrave.io,1234632,RESELLER,c25b2154543746ac
 thebrave.io,1234633,RESELLER,c25b2154543746ac
 thebrave.io,1234707,RESELLER,c25b2154543746ac
 thebrave.io,9840732,RESELLER,c25b2154543746ac
+themediagrid.com,1283wv,RESELLER,35d5010d7789b49d
 themediagrid.com,4p29ir,DIRECT,35d5010d7789b49d
 themediagrid.com,6xgfyq,RESELLER,35d5010d7789b49d
 themediagrid.com,a6cwlo,RESELLER,35d5010d7789b49d
@@ -997,6 +1001,7 @@ yieldmo.com,2754490424016969782,RESELLER
 yieldmo.com,3078438591206989879,DIRECT
 yieldmo.com,3591550211052216798,RESELLER,6a92c77cfc3d2258
 yieldmo.com,3746143199094055132,RESELLER
+yieldmo.com,3761877318507634863,RESELLER,6a92c77cfc3d2258
 zetaglobal.com,815,RESELLER
 zetaglobal.net,757,RESELLER
 zetaglobal.net,815,RESELLER

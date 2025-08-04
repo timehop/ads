@@ -4,6 +4,8 @@ OWNERDOMAIN=timehop.com
 33across.com,0010b00002xbn7qaar,RESELLER,bbea06d9c4d2853c
 33across.com,0013300001kqj2haas,RESELLER,bbea06d9c4d2853c
 33across.com,0015a00002egvrsaay,RESELLER,bbea06d9c4d2853c
+33across.com,001pg0000197kckiau,RESELLER,bbea06d9c4d2853c
+33across.com,001pg00001bt7yyiat,RESELLER,bbea06d9c4d2853c
 acd.op.hicloud.com,pub_hw_1003,RESELLER
 acexchange.co.kr,1024314629,RESELLER
 acexchange.co.kr,1317287336,RESELLER
@@ -191,6 +193,8 @@ bigo.sg,143,RESELLER
 blis.com,74,RESELLER,61453ae19a4b73f4
 blis.com,86,RESELLER,61453ae19a4b73f4
 blueseasx.com,203592,RESELLER,7998eac5087f6110
+bluexad.ai,1945022290496327680,RESELLER
+bluexad.ai,1946100279346728960,RESELLER
 bold-win.com,1074,RESELLER,71746737d0bab951
 bold-win.com,160,RESELLER,71746737d0bab951
 bold-win.com,555,RESELLER,71746737d0bab951
@@ -259,6 +263,8 @@ display.io,173162,RESELLER
 districtm.io,101587,DIRECT,3fd707be9c4527c3
 districtm.io,101649,RESELLER,3fd707be9c4527c3
 districtm.io,101760,RESELLER,3fd707be9c4527c3
+domob.cn,1920413885827911680,RESELLER
+domob.cn,1946100234484453376,RESELLER
 e-planning.net,081dcb996d2ccc1e,RESELLER,c1ba615865ed87b2
 e-planning.net,75f09c55845dd6e3,RESELLER,c1ba615865ed87b2
 e-planning.net,79686787743ddfc5,RESELLER,c1ba615865ed87b2
@@ -430,6 +436,7 @@ lijit.com,367217,RESELLER,fafdf38b16bf6b2b
 lijit.com,380632,RESELLER,fafdf38b16bf6b2b
 lijit.com,400766,RESELLER,fafdf38b16bf6b2b
 lijit.com,417620,RESELLER,fafdf38b16bf6b2b
+lijit.com,465542,RESELLER,fafdf38b16bf6b2b
 lijit.com,465842,DIRECT,fafdf38b16bf6b2b
 lijit.com,481366,RESELLER,fafdf38b16bf6b2b
 lijit.com,483304,RESELLER,fafdf38b16bf6b2b
@@ -576,10 +583,12 @@ openx.com,559912325,RESELLER,6a698e2ec38604c6
 openx.com,560678323,RESELLER,6a698e2ec38604c6
 openx.com,561436793,RESELLER,6a698e2ec38604c6
 openx.com,562174952,RESELLER,6a698e2ec38604c6
+openx.com,562688693,RESELLER,6a698e2ec38604c6
 openx.com,562846767,RESELLER,6a698e2ec38604c6
 opera.com,pub10014056052800,RESELLER,55a0c5fd61378de3
 opera.com,pub12153026866240,RESELLER,55a0c5fd61378de3
 opera.com,pub12998959884416,RESELLER,55a0c5fd61378de3
+opera.com,pub13433837650432,RESELLER,55a0c5fd61378de3
 opera.com,pub4210423680640,RESELLER,55a0c5fd61378de3
 opera.com,pub4366595624320,RESELLER,55a0c5fd61378de3
 opera.com,pub4444433466368,RESELLER,55a0c5fd61378de3
@@ -672,6 +681,7 @@ pubmatic.com,162588,RESELLER,5d62403b186f2ace
 pubmatic.com,162882,RESELLER,5d62403b186f2ace
 pubmatic.com,162968,RESELLER,5d62403b186f2ace
 pubmatic.com,162974,RESELLER,5d62403b186f2ace
+pubmatic.com,163091,RESELLER,5d62403b186f2ace
 pubmatic.com,163238,RESELLER,5d62403b186f2ace
 pubmatic.com,163316,RESELLER,5d62403b186f2ace
 pubmatic.com,163319,RESELLER,5d62403b186f2ace
@@ -695,6 +705,7 @@ pubmatic.com,165874,RESELLER,5d62403b186f2ace
 pubmatic.com,165980,RESELLER,5d62403b186f2ace
 pubmatic.com,166078,RESELLER,5d62403b186f2ace
 pubmatic.com,166331,RESELLER,5d62403b186f2ace
+pubmatic.com,166335,RESELLER,5d62403b186f2ace
 pubmatic.com,166409,RESELLER,5d62403b186f2ace
 pubmatic.com,166536,RESELLER,5d62403b186f2ace
 pubnative.net,1004796,RESELLER,d641df8625486a7b
@@ -706,6 +717,7 @@ pubnative.net,1007262,RESELLER,d641df8625486a7b
 pubnative.net,1007303,RESELLER,d641df8625486a7b
 pubnative.net,1007475,RESELLER,d641df8625486a7b
 pubnative.net,1007501,RESELLER,d641df8625486a7b
+pubnative.net,1007688,RESELLER,d641df8625486a7b
 pubnative.net,1007974,RESELLER,d641df8625486a7b
 pubnative.net,1008061,RESELLER,d641df8625486a7b
 pubnative.net,1008379,RESELLER,d641df8625486a7b
@@ -720,6 +732,8 @@ pubnative.net,1010070,RESELLER,d641df8625486a7b
 pubnative.net,1010071,RESELLER,d641df8625486a7b
 pubnative.net,1010072,RESELLER,d641df8625486a7b
 pubnative.net,1010073,RESELLER,d641df8625486a7b
+pubnative.net,1016724,RESELLER,d641df8625486a7b
+pubnative.net,1016803,RESELLER,d641df8625486a7b
 pubwheel.com,96039365,DIRECT,1b2cc038a11ea319
 pubwise.io,52324626,RESELLER,c327c91a93a7cdd3
 qortex.ai,200807,RESELLER
@@ -809,6 +823,7 @@ rubiconproject.com,26846,RESELLER,0bfd66d529a55807
 rubiconproject.com,26958,RESELLER,0bfd66d529a55807
 rubiconproject.com,27008,RESELLER,0bfd66d529a55807
 rubiconproject.com,27168,RESELLER,0bfd66d529a55807
+rubiconproject.com,27538,RESELLER,0bfd66d529a55807
 sabio.us,100032,RESELLER,96ed93aaa9795702
 sabio.us,100036,DIRECT,96ed93aaa9795702
 saharmedia.net,1683858,RESELLER
@@ -969,6 +984,7 @@ themediagrid.com,dy1ovp,RESELLER,35d5010d7789b49d
 themediagrid.com,edljgi,DIRECT,35d5010d7789b49d
 themediagrid.com,ioy14k,RESELLER,35d5010d7789b49d
 themediagrid.com,irk975,RESELLER,35d5010d7789b49d
+themediagrid.com,nc7lxt,RESELLER,35d5010d7789b49d
 themediagrid.com,otjdbi,RESELLER,35d5010d7789b49d
 themediagrid.com,r28i9j,RESELLER,35d5010d7789b49d
 themediagrid.com,rabcq1,RESELLER,35d5010d7789b49d
@@ -1047,6 +1063,7 @@ video.unrulymedia.com,2464975885,RESELLER
 video.unrulymedia.com,2564526802,RESELLER
 video.unrulymedia.com,2613193077,RESELLER
 video.unrulymedia.com,266978658,RESELLER
+video.unrulymedia.com,290726769,RESELLER
 video.unrulymedia.com,2979066401945419350,RESELLER
 video.unrulymedia.com,322585001,RESELLER
 video.unrulymedia.com,3634565696,RESELLER,6f752381ad5ec0e5
@@ -1085,6 +1102,7 @@ vidoomy.com,2704434,RESELLER
 vidoomy.com,4930225,RESELLER
 vidoomy.com,60653,DIRECT
 vidoomy.com,9148331,RESELLER
+visiblemeasures.com,1004,RESELLER
 visiblemeasures.com,1020,RESELLER
 voisetech.com,1034,RESELLER
 volution.ai,ajxf6r118a9m6catvk,RESELLER
@@ -1146,5 +1164,6 @@ zmaticoo.com,114490,RESELLER
 zmaticoo.com,5135063,RESELLER
 zmaticoo.com,5135224,RESELLER
 zmaticoo.com,5135302,RESELLER
+zmaticoo.com,5135535,RESELLER
 zmaticoo.com,5135655,RESELLER
 zoomd.com,88478941,RESELLER

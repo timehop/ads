@@ -567,7 +567,6 @@ mman.kr,33476,RESELLER
 mobfox.com,74005,DIRECT
 mobfox.com,80788,DIRECT
 mobfox.com,82593,RESELLER,5529a3d1f59865be
-mobilefuse.com,####,DIRECT,71e88b065d69c021
 mobilefuse.com,2770,DIRECT,71e88b065d69c021
 mobupps.com,c74d97b01eae257e44aa9d5bade97baf32954,RESELLER
 mobupps.com,c74d97b01eae257e44aa9d5bade97baf7726,RESELLER

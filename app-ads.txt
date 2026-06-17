@@ -862,3 +862,4 @@ oxiem.com,a2495b5c43,DIRECT,b7aba0bfd04aa6b6
 pubmatic.com,166397,RESELLER,5d62403b186f2ace
 freewheel.tv,sg1253047,RESELLER
 freewheel.tv,533600-r-523319,RESELLER
+ssp.cadent.com,3700,DIRECT,1e1d41537f7cad7f

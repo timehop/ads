@@ -1,0 +1,99 @@
+name: Publish app-ads.txt
+
+# Serves app-ads.txt at https://ads.timehop.com/app-ads.txt, which is where
+# https://timehop.com/app-ads.txt redirects.
+#
+# - On a pull request: checks the files, publishes nothing.
+# - On a merge to main: checks the files, then copies them to the S3 bucket
+#   behind ads.timehop.com. The new version is live within about 5 minutes.
+#
+# To update the file: edit app-ads.txt, open a pull request, get it approved,
+# merge. Nothing else is needed.
+#
+# The bucket, CDN and the role below are defined in
+# Punchbowl/aws_infrastructure_config (terraform/timehop/production/app-ads.tf).
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - app-ads.txt
+      - deviceStorage.json
+      - .github/workflows/publish.yml
+      - .github/scripts/**
+  pull_request:
+    paths:
+      - app-ads.txt
+      - deviceStorage.json
+      - .github/workflows/publish.yml
+      - .github/scripts/**
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: publish-${{ github.ref }}
+  cancel-in-progress: false
+
+env:
+  BUCKET: timehop-ads-txt
+  PUBLIC_URL: https://ads.timehop.com
+
+jobs:
+  check:
+    name: Check files
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Check app-ads.txt
+        run: bash .github/scripts/check-app-ads.sh app-ads.txt
+
+      - name: Check deviceStorage.json is valid JSON
+        run: jq empty deviceStorage.json
+
+  publish:
+    name: Publish to ads.timehop.com
+    needs: check
+    # The AWS role only trusts main, so a run from any other branch would fail
+    # at the credentials step. Skip it instead.
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      id-token: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - uses: aws-actions/configure-aws-credentials@e1253824e5c10ff9df46874f81ed3ec929e19cfd # v6.3.0
+        with:
+          role-to-assume: arn:aws:iam::449043842785:role/timehop-ads-github-actions
+          aws-region: us-east-1
+
+      # Crawlers need text/plain so the file displays instead of downloading.
+      - name: Upload
+        run: |
+          aws s3 cp app-ads.txt "s3://$BUCKET/app-ads.txt" \
+            --content-type 'text/plain; charset=utf-8'
+          aws s3 cp deviceStorage.json "s3://$BUCKET/deviceStorage.json" \
+            --content-type 'application/json'
+
+      # The CDN caches for 5 minutes, so wait for the public copy to match
+      # what was just uploaded.
+      - name: Wait for the new version to be live
+        run: |
+          url="$PUBLIC_URL/app-ads.txt"
+          for attempt in $(seq 1 16); do
+            if curl --silent --show-error --fail --max-time 20 \
+                 --output live.txt --dump-header headers.txt "$url" \
+               && cmp --silent app-ads.txt live.txt \
+               && grep --ignore-case --quiet '^content-type: text/plain' headers.txt; then
+              echo "Live at $url"
+              exit 0
+            fi
+            echo "Not live yet (attempt $attempt of 16), retrying in 30s"
+            sleep 30
+          done
+          echo "::error::$url is not serving the new app-ads.txt as text/plain after 8 minutes"
+          exit 1
